@@ -24,5 +24,5 @@ This application matches resources (individuals) to tasks based on their skills.
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/memona-asim/Resource-Task-matcher.git
+   git clone https://github.com/memona-asim/Resource-Task-Matcher.git
    cd resource-task-matcher
